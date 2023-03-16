@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Thailand nursery attack: Witnesses describe shocking attack",
+            "description": "There was terror and confusion as sleeping children were attacked by the former policeman.",
+            "url": "http://www.bbc.co.uk/news/world-asia-63158837",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/47A3/production/_126993381_5679e7491fe7a23dbbedaf3aeed7708c1bb75a3b0_77_5500_30945500x3094.jpg",
+            "publishedAt": "2022-10-07T03:07:16.5896714Z",
+            "content": "Media caption, Watch: Thai nursery shooting witness 'begged for mercy'\r\nPeople who witnessed a deadly rampage at a Thai nursery have described the horrific moment a former police officer burst in and… [+3436 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Zero-Covid: How Xi's flagship policy is spoiling his party",
+            "description": "Three years into the crisis, China's pandemic response is exhausting its population.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-63112996",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/180CE/production/_127001589_gettyimages-1231509413.jpg",
+            "publishedAt": "2022-10-07T02:52:23.4787247Z",
+            "content": "Media caption, Watch how Chinas zero Covid strategy is exhausting its people.\r\nThe idea was to have China in stable and tip-top shape when thousands of delegates gather in Beijing to usher in a histo… [+9982 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Tens of thousands of salmon found dead in Canada",
+            "description": "Researchers in British Columbia discovered a shocking sight when they walked to the creek.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-63136680",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17322/production/_127001059_p0d57v17.jpg",
+            "publishedAt": "2022-10-07T02:37:21.3547332Z",
+            "content": "A research crew from Simon Fraser University in British Columbia was out monitoring salmon in Neekas river. \r\nEvery autumn, they carry out creek walks to count the number of salmon that make it back … [+74 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Inflation: Why food prices matter for the US midterm elections",
+            "description": "When will soaring food prices begin to fall, and what do they mean for the midterm elections?",
+            "url": "http://www.bbc.co.uk/news/business-63040393",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/867C/production/_126882443_whatsubject.jpg",
+            "publishedAt": "2022-10-06T23:37:20.4317108Z",
+            "content": "The cost of food in the US is rising at the fastest pace since the 1970s, with grocery prices up 13.5% in the 12 months to September. \r\nAs elections approach in November and wages fail to keep pace, … [+5766 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Saskatchewan suspect killed 11, including brother, police say",
+            "description": "Police say the brothers planned the rampage together, but one killed the other for reasons that remain unclear.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-63166810",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0FAA/production/_127001040_mylestruck.jpg",
+            "publishedAt": "2022-10-06T22:37:21.1819634Z",
+            "content": "The suspect in a deadly mass stabbing that stunned Canada acted on his own - and his own brother was among the victims, police say.\r\nMyles Sanderson, 32, died after being arrested on a motorway on 7 … [+2692 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US midterms: The country with youngest politicians in world",
+            "description": "As part of a new series, we explore whether Norway has a solution for the US and its ageing leaders.",
+            "url": "http://www.bbc.co.uk/news/world-europe-63068931",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/97E5/production/_126958883_marengrthe_2.jpg",
+            "publishedAt": "2022-10-06T21:22:20.7291002Z",
+            "content": "America's leaders are old and growing older. As part of a new series that looks abroad for inspiration on how to fix flaws in the US political system, we ask whether Norway's young MPs have the answe… [+6685 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Thailand: Many children among dead in nursery attack",
+            "description": "An ex-police officer killed at least 37 people at a childcare centre before killing himself and his family.",
+            "url": "http://www.bbc.co.uk/news/world-asia-63155169",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8105/production/_126992033_2f5db780-5caf-4751-9970-181d19a749f0.jpg",
+            "publishedAt": "2022-10-06T20:07:22.5731658Z",
+            "content": "Media caption, People are seen gathered outside the nursery in the aftermath of the attack\r\nAn ex-policeman has killed at least 37 people, most of them children, in a gun and knife attack at a childc… [+3892 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Biden to pardon thousands of federal marijuana convictions",
+            "description": "The move brings Mr Biden closer to his campaign pledge to nationally decriminalise recreational cannabis.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-63166964",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/89E4/production/_127000353_gettyimages-1242649489.jpg",
+            "publishedAt": "2022-10-06T20:07:18.5572646Z",
+            "content": "President Joe Biden is issuing an executive order pardoning all Americans who have been federally convicted of \"simple possession of marijuana\".\r\nThe move will only affect a relatively small number o… [+1891 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Two Russians sail to Alaska seeking asylum in US",
+            "description": "Hundreds of thousands of men have fled Russia so they will not be conscripted to fight in Ukraine.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-63160469",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/31CD/production/_126994721_map.png",
+            "publishedAt": "2022-10-06T19:52:29.0423653Z",
+            "content": "Two Russian nationals have been detained by US officials after arriving in a small boat on St Lawrence Island in Alaska.\r\nAccording to the two US senators who represent the state, the men landed at a… [+2567 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Hunter Biden could be charged with tax crimes",
+            "description": "Federal agents have reportedly gathered enough evidence to charge the president's son with tax crimes.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-63166809",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15F90/production/_127000009_hunterbiden.jpg",
+            "publishedAt": "2022-10-06T19:52:20.1362433Z",
+            "content": "The FBI has gathered enough evidence to charge Hunter Biden with tax crimes and making a false statement to buy a gun, according to the BBC's US partner CBS News. \r\nPresident Joe Biden's son has been… [+1876 chars]"
+        }
+    ]
+}
